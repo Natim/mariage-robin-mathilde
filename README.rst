@@ -1,5 +1,15 @@
-Service de nuages
-=================
+Mariage de Séverine & Rémy
+==========================
+
+Vous avez vu une faute ou une erreur ?
+
+Naviguez dans le répertoire ``content/`` ci-dessus et corrigez là :)
+
+Merci
+
+Rémy
+
+-------------------
 
 Load and update plugins submodule::
 
@@ -18,10 +28,3 @@ and to publish it::
 Publish to gh-pages::
 
     make github
-
-Dependencies
-------------
-
-Most of the dependencies are pure Python and are thus handled by ``pip``
-directly; however, in order to build graphs dynamically, the ``dot`` binary
-from `Graphviz <http://graphviz.org/Download..php>`_ is required.
