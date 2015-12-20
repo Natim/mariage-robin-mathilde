@@ -19,7 +19,7 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 DELETE_OUTPUT_DIRECTORY = True
 
 SOCIAL = (
-    ('envelope', 'mailto:hubschon@gmail.com'),
+    ('envelope', 'mailto:mariage@dadounets.me'),
     ('rss', SITEURL + '/feeds/all.atom.xml'),
     ('github', 'https://github.com/Natim/mariage'),
 )
