@@ -11,7 +11,7 @@ Rennes se trouve à l'entrée de la Bretagne.
 En voiture
 ==========
 
-`Calculer l'itinéraire <https://www.google.com/maps>`_
+`Calculer l'itinéraire <http://www.openstreetmap.org/directions#map=9/47.9531/-1.8196>`_
 
 En train
 ========

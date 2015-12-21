@@ -21,7 +21,7 @@ souhaitent.
 À l'hôtel
 =========
 
-Il y a de nombreux hôtel à Chantepie à proximité du Manoir de la
+Il y a de nombreux hôtels à Chantepie à proximité du Manoir de la
 Haute-Pilais :
 
 - Hotel Campanile
