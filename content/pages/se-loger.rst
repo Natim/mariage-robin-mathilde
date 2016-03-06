@@ -17,6 +17,11 @@ soir**).
 Il y a également la possibilité de planter des tentes pour ceux qui le
 souhaitent.
 
+**Mise à jour:** Tous les couchages du gîte proposés ont été
+réservés. Nous avons tenu compte des demandes déjà faites. Vous pouvez
+encore réserver un emplacement de tente. En cas de difficultés pour
+vous loger, contactez-nous.
+
 
 À l'hôtel
 =========

@@ -17,5 +17,5 @@ Comment nous contacter ?
 - **Téléphone Fixe :** 02 99 60 41 61
 - **Portable Rémy :** 06 83 91 39 87
 - **Portable Séverine :** 06 84 54 51 17
-- **Email pour l'évènement :** `mariage@dadounets.fr <mariage@dadounets.me>`_
+- **Email pour l'évènement :** `mariage@dadounets.me <mariage@dadounets.me>`_
 - **La Poste :** Rémy Hubscher et Séverine Beyer — 22 rue du Temple de Blosne — 35136 Saint Jacques de la Lande
