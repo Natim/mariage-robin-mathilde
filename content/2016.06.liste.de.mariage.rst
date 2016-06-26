@@ -1,4 +1,4 @@
-Liste de Mariage
+Liste de mariage
 ################
 
 :slug: liste-de-mariage
@@ -12,7 +12,7 @@ mariage.
 Nous avons décidé de ne pas en faire et de vous proposer de participer
 à notre prochain voyage en Écosse au printemps 2017.
 
-.. image:: {filename}/images/glens-of-angus.jpg
+.. image:: images/glens-of-angus.jpg
     :alt: Glens of Angus — https://www.visitscotland.com/fr-fr/see-do/landscapes-nature/mountains-hills/
     :align: center
 
