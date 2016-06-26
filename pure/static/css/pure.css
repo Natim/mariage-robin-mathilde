@@ -152,7 +152,7 @@ pre {
 }
 
 .brand-main {
-	text-align: center;
+    text-align: center;
 }
 
 .brand-main a {
@@ -388,15 +388,18 @@ pre {
 /* Styles for Figures & Images */
 
 img.align-right {
+    display: block;
     float: right;
     margin: 1em 0 1em 1em;
 }
 
 img.align-center {
+    display: block;
     margin: 1em auto;
 }
 
 img.align-left {
+    display: block;
     float: left;
     margin: 1em 1em 1em 0;
 }
