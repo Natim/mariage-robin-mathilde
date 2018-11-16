@@ -1,5 +1,5 @@
-Mariage de Séverine & Rémy
-==========================
+Mariage de Mathilde & Robin
+===========================
 
 Vous avez vu une faute ou une erreur ?
 
@@ -7,7 +7,7 @@ Naviguez dans le répertoire ``content/`` ci-dessus et corrigez là :)
 
 Merci
 
-Rémy
+Robin et Mathilde
 
 -------------------
 

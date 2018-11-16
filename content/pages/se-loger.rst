@@ -6,38 +6,25 @@ Se loger
 :url: se-loger
 
 
-Sur place au Manoir
-===================
+Sur place au Domaine
+====================
 
-Il y a 30 couchages possibles au Manoir répartis dans des chambres de
-plusieurs personnes. Merci de nous contacter si vous souhaitez y
-résider (couchage possible **pour le vendredi soir et le samedi
-soir**).
+Il y a **70 couchages** possibles au Domaine répartis dans des
+chambres de plusieurs personnes. Merci de nous contacter si vous
+souhaitez y résider (couchage possible **pour le vendredi soir et le
+samedi soir**).
 
 Il y a également la possibilité de planter des tentes pour ceux qui le
 souhaitent.
-
-**Mise à jour:** Tous les couchages du gîte proposés ont été
-réservés. Nous avons tenu compte des demandes déjà faites. Vous pouvez
-encore réserver un emplacement de tente. En cas de difficultés pour
-vous loger, contactez-nous.
 
 
 À l'hôtel
 =========
 
-Il y a de nombreux hôtels à Chantepie à proximité du Manoir de la
-Haute-Pilais :
+Il y a des hôtels à Lalouvesc:
 
-- Hotel Campanile
-- Logis des Loges
-- Ibis Budget
-- Première Classe Bonsaï Hotel
-- Comfort Hotel
+- Hôtel Les Voyageurs
+- Hôtel le Relais du Monarque
+- Le Mont Besset
 
 `Voir la carte <venir.html>`_
-
-Quelque soit votre choix d'hôtel et si vous ne venez pas en voiture,
-communiquez nous vos horaires de départ et d'arrivée afin que nous
-puissions organiser au mieux les trajets pour votre arrivée et votre
-départ mais aussi pour les déplacements entre les différents lieux.

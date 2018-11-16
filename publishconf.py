@@ -10,20 +10,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *  # NoQA
 
-SITEURL = 'http://dadounets.me'
+SITEURL = 'https://mathilde-robin.hubscher.info/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-
-SOCIAL = (
-    ('envelope', 'mailto:mariage@dadounets.me'),
-    ('rss', SITEURL + '/feeds/all.atom.xml'),
-    ('github', 'https://github.com/Natim/mariage'),
-)
-
-# Following items are often useful when publishing
-
-DISQUS_SITENAME = "mariageseverineetremy"
