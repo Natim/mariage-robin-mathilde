@@ -44,8 +44,8 @@ a:focus {
 }
 
 .banner {
-    background-position: center;
-    background-size: cover;
+    background-position: right;
+    background-size: contains;
     height: 300px;
     width: 100%;
 }
