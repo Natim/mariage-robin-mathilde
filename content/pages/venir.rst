@@ -8,6 +8,11 @@ Venir au mariage
 
 Le **Domaine de Milagro** se trouve à **Lalouvesc** en **Ardèche (07)**.
 
+Merci de nous communiquer vos horaires estimés d'arrivée afin que nous
+puissions vous compter dans les repas vendredi soir et du samedi
+midi.
+
+
 En voiture
 ==========
 
