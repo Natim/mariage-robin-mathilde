@@ -37,8 +37,10 @@ MENUITEMS = (
     (u'Se loger', 'pages/se-loger.html'),
     (u'À propos', 'pages/a-propos.html'),
 )
-STATIC_PATHS = ['images', ]
-
+STATIC_PATHS = ['images', 'extra/robots.txt']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+}
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['post_stats']
 RESPONSIVE_IMAGES = True
