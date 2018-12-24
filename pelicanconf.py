@@ -35,7 +35,7 @@ MENUITEMS = (
     ('Nouvelles', 'archives.html'),
     (u'Venir', 'pages/venir.html'),
     (u'Se loger', 'pages/se-loger.html'),
-    (u'À propos', 'pages/a-propos.html'),
+    (u'Contactez-nous', 'pages/a-propos.html'),
 )
 STATIC_PATHS = ['images', 'extra/robots.txt']
 EXTRA_PATH_METADATA = {

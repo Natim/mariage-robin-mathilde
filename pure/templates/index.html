@@ -4,35 +4,27 @@
 <div class="pure-g-r" id="layout">
     {% include 'sidebar.html' %}
     <div class="pure-u-1">
+    <div class="pure-u-1">
         <div class="content">
-            <!-- A wrapper for all the blog posts -->
-            <div class="posts">
-                <h1 class="content-subhead">
-                    {% block pagetitle %}
-                            {% if not articles_page.has_previous() %}
-                                Derniers articles — <small>Cliquez sur un titre pour lire l'article</small>
-                            {% else %}
-                                Articles
-                            {% endif %}
-                    {% endblock pagetitle %}
-                    {% if articles_page.has_previous() %}
-                        &ndash; Page&nbsp;{{ articles_page.number }}
-                    {% endif %}
-                </h1>
-                {% for article in articles_page.object_list %}
-                    {% include 'post.html' %}
-                    {% if MATH is defined and not MATH['auto_insert'] %}
-			{% if page and page.mathjax or article and article.mathjax %}
-                            {% set mathjax = True %}
-                        {% endif %}
-                    {% endif %}
-                    {% if loop.last and mathjax is defined %}
-                        {{ MATHJAXSCRIPT }}
-                    {% endif %}
-                {% endfor %}
-                {% include 'pagination.html' %}
-                {% include 'footer.html' %}
-            </div>
+            <h1 class="content-subhead">Mathilde &amp; Robin se marient</h1>
+            <h2>Week-end de mariage en Ardèche</h2>
+            <p>Plus qu’une journée de mariage : tout un week-end !</p>
+            <ul>
+                <li>Dès le <strong>vendredi 30 août 2019, à partir de 16h</strong></li>
+                <li>Jusqu’au <strong>dimanche 1 septembre 2019, après le brunch</strong></li>
+            </ul>
+            <p>Pour partager avec nous ce week-end convivial <strong>au «Domaine de Milagro» à
+                Lalouvesc</strong>, au cœur de la forêt Ardéchoise. <a class="reference external" href="/pages/venir.html#carte">Voir la carte</a></p>
+            <p>Neuf lamas, nous attendent déjà sur place pour fêter et
+            partager jeux, activités et bonne humeur.<br/>Nous comptons
+            sur vous, pour <strong>apporter vos jeux et activités d'intérieurs
+            et d'extérieurs préférées</strong>.</p>
+            
+            <p>Le domaine comprend de nombreux couchages <a target="_blank" class="reference external" href="https://docs.google.com/spreadsheets/d/1s1R45AkZX__NFdPzpts5kf1fa5yV_4ufQCkBhlbhSrw/edit"> à réserver en direct ici</a>.</p>
+            <p><strong>Un grand <a class="reference external" href="/pages/a-propos.html">merci pour la confirmation de votre venue</a> à nous adresser avant le 31 mars 2019.</strong></p>
+            <p><a href="/archives.html">Gardez un œil sur les actualités</a> des préparatifs pour tout savoir sur le Domaine.</p>
+        </div>
+        {% include 'footer.html' %}
         </div>
     </div>
 </div>

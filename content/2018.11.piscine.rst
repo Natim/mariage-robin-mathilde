@@ -1,0 +1,14 @@
+Ici piscine !
+#############
+
+:slug: piscine
+:date: 2018-12-24
+:summary:
+   N'oubliez pas vos maillots pour profiter de la piscine chauffée du domaine.
+
+
+Le Domaine possède une piscine chauffée
+=======================================
+
+Le Domaine du Milagros possède une piscine chauffée, n'oubliez pas vos
+maillots pour en profiter.
