@@ -38,15 +38,10 @@ clean:
 	rm -rf $(VENV)
 
 serve: install
-ifdef PORT
-	cd $(OUTPUTDIR) && $(PYTHON) -m pelican.server $(PORT)
-else
-	cd $(OUTPUTDIR) && $(PYTHON) -m pelican.server 8000
-endif
+	$(PELICAN) -lr
 
 regenerate:
-	cd $(OUTPUTDIR) && $(PYTHON) -m pelican.server &
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) -lr
 
 publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)

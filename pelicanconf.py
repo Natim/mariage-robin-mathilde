@@ -42,5 +42,5 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
 }
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['post_stats']
+PLUGINS = ['post_stats', 'liquid_tags.video']
 RESPONSIVE_IMAGES = True
